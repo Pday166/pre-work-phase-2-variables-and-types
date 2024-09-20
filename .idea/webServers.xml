@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4d6c58e-1ae6-4e48-aa98-dcd39f0d0a14" name="shared bootcamp server" url="https://ddc-web-student.cnm.edu/~pday5/pre-work-phase-2/variables-and-types">
+        <fileTransfer rootFolder="/home/pday5/public_html/pre-work-phase-2/variables-and-types" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="509cf1d0-442f-4d68-a4e8-f0ecffa6e199" sshConfig="pday5@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
